@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cenmengyue
-- 👀 I’m interested in computer and electronics.
-- 🌱 I’m currently learning 3D Reconstruction and computer graphics.
+- 👋 Hi, I’m @cenmengyue.
+- 👀 I’m interested in AI.
+- 🌱 I’m currently studying reasoning segmentation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me by cenmengyue@mail.nwpu.edu.cn
 
